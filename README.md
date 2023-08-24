@@ -2,10 +2,10 @@
 
 ### 💫 About Me:
 Greetings, fellow explorer of the digital universe! I'm Areeb, a Software Engineer embarking on a journey through the expansive and ever-evolving realm of computer science. As I navigate this landscape while pursuing my bachelor's degree, I find myself delving into its countless domains, always eager to learn and discover.<br><br>Beyond the world of code, you might find me embracing nature's embrace. With a camera in hand,  capturing the beauty around me, freezing moments in time through the lens of stunning photography. And yes, you might also find me diving deep into books or traversing anime worlds at times.<br><br>Embracing a life of perpetual learning, I remain curious and open to new horizons.
-<br>
+
 #### ⚡ Current Focus:
 <br>Currently, my journey is centered around the realm of development. For quite a while now, my focus has been sharpened on web development. This journey involves mastering essential frameworks and crafting engaging digital experiences. With React as my partner for creating frontend marvels and Django steering my backend ventures, I'm shaping intriguing projects that seamlessly blend artistry with functionality.
-<br>
+
 #### 😄 Next Goal:
 <br>As I navigate this dynamic journey, my sights are locked onto mastering Next.js. This pursuit emerges from my desire to further enhance my development skills, giving rise to even more refined and efficient digital solutions.<br><br>Feel free to connect, share ideas, or collaborate. Together, let's chart our course through the ever-evolving world of technology!
 
