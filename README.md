@@ -1,21 +1,51 @@
-### Salutations, fellow seeker amidst the bytes and algorithms! 👋
+![cover](https://github.com/tareeb/tareeb/assets/67794123/e8a6d138-3908-426d-b38e-cf89229de3a2)
 
-### 💫 About Me:
-Greetings, fellow explorer of the digital universe! I'm Areeb, a Software Engineer embarking on a journey through the expansive and ever-evolving realm of computer science. As I navigate this landscape while pursuing my bachelor's degree, I find myself delving into its countless domains, always eager to learn and discover.<br><br>Beyond the world of code, you might find me embracing nature's embrace. With a camera in hand,  capturing the beauty around me, freezing moments in time through the lens of stunning photography. And yes, you might also find me diving deep into books or traversing anime worlds at times.<br><br>Embracing a life of perpetual learning, I remain curious and open to new horizons.
+### Salutations, fellow seeker amidst the bytes and algorithms! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2ZoZmc5bWpyaWhyMnhxaGV0MDl2ZXU4dDd3dmZyeTBobWN5ZG1wYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zJ3V6Ot51H8Y0/giphy.gif" width=50>
 
-#### ⚡ Current Focus:
-Currently, my journey is centered around the realm of development. For quite a while now, my focus has been sharpened on web development. This journey involves mastering essential frameworks and crafting engaging digital experiences. With React as my partner for creating frontend marvels and Django steering my backend ventures, I'm shaping intriguing projects that seamlessly blend artistry with functionality.
+<details> 
+<summary>
+  Being a writer I write, If you are a fellow reader, step inside
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTE5ajFvbDl4aGFpdHp6bHFyMGllYjR6djh2bDdxYTVsM2o5cGlmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PPui3rxvpTPFrqKc10/giphy.gif" width=30>
+</summary>
+  
+### 💫 About Me: 
+Greetings, fellow explorer of the digital universe! I'm Areeb, a **Software Engineer** embarking on a journey through the expansive and ever-evolving realm of computer science. As I navigate this landscape while pursuing my bachelor's degree, I find myself delving into its countless domains, always eager to learn and discover.<br><br>Beyond the world of code, you might find me embracing nature's embrace. With a camera in hand,  capturing the beauty around me, freezing moments in time through the lens of stunning photography. And yes, you might also find me diving deep into books or traversing anime worlds at times.<br><br>Embracing a life of perpetual learning, I remain curious and open to new horizons.
 
-#### 😄 Next Goal:
-As I navigate this dynamic journey, my sights are locked onto mastering Next.js. This pursuit emerges from my desire to further enhance my development skills, giving rise to even more refined and efficient digital solutions.
+#### ⚡ Current Focus: 
+Currently, my journey is anchored in the realm of development. For quite a while now, my focus has been sharpened on **web development**. This journey involves mastering essential frameworks and crafting engaging digital experiences. With **React** as my partner for creating frontend marvels and **Django** steering my backend ventures, I'm shaping intriguing projects that seamlessly blend artistry with functionality.
+
+#### 😄 Next Goal: 
+As I navigate this dynamic journey, my sights are locked onto mastering **Next.js**. This pursuit emerges from my desire to further enhance my development skills, giving rise to even more refined and efficient digital solutions.
 <br>Feel free to connect, share ideas, and collaborate. Together, let's course through the ever-evolving world of technology!
+<br>
+<br>
+</details>
+<br>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/areebtraiq23) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/areebahmedtariq) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/areebtariq9) 
+### 📜 In Short:
+Crafting digital experiences as a **Software engineer**, focused on **web development**
+.
 
 <br>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+## 💻 Tech Stack:
+### Promgramming Languages:
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,python,cpp,html,css)](https://skillicons.dev)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Web Technologies:
+#### FrontEnd:
+- JavaScript
+- TypeScript
+- React 
+- HTML,CSS
+
+#### Backend:
+- Python
+- Django
+
+### Desktop Development:
+- Java
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/areebahmedtariq) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/areebtariq9) 
+
