@@ -20,13 +20,21 @@ As I navigate this dynamic journey, my sights are locked onto mastering **Next.j
 <br>
 <br>
 </details>
-<br>
 
 ### 📜 In Short:
 Crafting digital experiences as a **Software engineer**, focused on **web development**
-.
-
 <br>
+
+## Projects : 
+<!-- START OF PROFILE STACK, DO NOT REMOVE -->
+| 💻 **Technology** | 🚀 **Projects** |
+| - | - |
+| [![Django](https://img.shields.io/static/v1?label=&message=Django&color=092E20&logo=Django&logoColor=FFFFFF)](https://www.djangoproject.com/) | [![baat-cheet](https://img.shields.io/static/v1?label=&message=baat-cheet&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605) ](https://github.com/tareeb/BaatCheet-Backend)[![OpenSourcerers](https://img.shields.io/static/v1?label=&message=OpenSourcerers&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605) ](https://github.com/hasnatahmed331/nasa_backend)[![irish-food-hub](https://img.shields.io/static/v1?label=&message=irsih-food-hub&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605) ](https://github.com/tareeb/IrishFoodHub-Backend)[![book-store](https://img.shields.io/static/v1?label=&message=book-store&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605) ](https://github.com/tareeb/bookstoreapp) |
+| [![React](https://img.shields.io/static/v1?label=&message=React&color=003b54&logo=React&logoColor=234E221)](https://react.dev/) | [![baat-cheet](https://img.shields.io/static/v1?label=&message=Baat-Cheet&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605 ) ](https://github.com/tareeb/baatcheet-Frontend)[![OpenSourcerers](https://img.shields.io/static/v1?label=&message=OpenSourcerers&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605) ](https://github.com/tareeb/OpenSourcerers)[![irish-food-hub](https://img.shields.io/static/v1?label=&message=irsih-food-hub&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605) ](https://github.com/tareeb/IrishFoodHub-FrontEnd)[![book-store](https://img.shields.io/static/v1?label=&message=book-store&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605) ](https://github.com/tareeb/Bookstore-FrontEnd)[![irish-recepies](https://img.shields.io/static/v1?label=&message=irsih-recepies&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605) ](https://github.com/tareeb/IrishRecipies) |
+| [![Next](https://img.shields.io/static/v1?label=&message=Next&color=001017&logo=javascript&logoColor=234E221)](https://nextjs.org/) | [![Fun-APIs](https://img.shields.io/static/v1?label=&message=Fun-APIs&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605 ) ](https://github.com/tareeb/FunAPI)[![Meme-Generator](https://img.shields.io/static/v1?label=&message=Meme-Generator&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605) ](https://github.com/tareeb/memegenerator) |
+| [![Java](https://img.shields.io/static/v1?label=&message=Java&color=FFA116)](https://www.java.com/) | [![Socket-ChatApp](https://img.shields.io/static/v1?label=&message=Socket-ChatApp&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605 ) ](https://github.com/tareeb/Java-SocketBasedChatApp)[![Clearance-System](https://img.shields.io/static/v1?label=&message=Clearance-System&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605) ](https://github.com/tareeb/java-UniversityClearanceSystem)[![Calculate-with-Words](https://img.shields.io/static/v1?label=&message=Calculate-with-Words&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605) ](https://github.com/tareeb/CalculatewithWords)[![snake-game](https://img.shields.io/static/v1?label=&message=snake-game&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605) ](https://github.com/tareeb/java-snake-game)[![memory-simulator](https://img.shields.io/static/v1?label=&message=memory-simulator&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605) ](https://github.com/tareeb/Fixed-Partition-Memory-Sim-java) |
+| [![C++](https://img.shields.io/static/v1?label=&message=C&color=3878c7&logo=Cplusplus&logoColor=234E221)](https://cplusplus.com/) | [![Polymorphic-Virus](https://img.shields.io/static/v1?label=&message=Polymorphic-Virus&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605 ) ](https://github.com/tareeb/polymorphicVirus) |
+
 
 ## 💻 Tech Stack:
 ### Promgramming Languages:
